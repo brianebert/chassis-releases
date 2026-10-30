@@ -7,7 +7,6 @@ this repo holds only built, downloadable release artifacts.
 
 ## Install
 
-
 ```sh
 curl -fsSL https://github.com/brianebert/chassis-releases/releases/latest/download/chassis-macos.tar.gz -o /tmp/chassis-macos.tar.gz
 tar -xzf /tmp/chassis-macos.tar.gz -C /tmp
